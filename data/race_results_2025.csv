@@ -1,0 +1,481 @@
+season,round,Track,Position,FullName,TeamName,GridPosition,Laps,Time/Retired,Points,drs_zones
+2025,1,Australia,1,Lando Norris,McLaren,1.0,57.0,1:42:06.304,25.0,3
+2025,1,Australia,2,Max Verstappen,Red Bull,3.0,57.0,+0.895,18.0,3
+2025,1,Australia,3,George Russell,Mercedes,4.0,57.0,+8.481,15.0,3
+2025,1,Australia,4,Kimi Antonelli,Mercedes,16.0,57.0,+10.135,12.0,3
+2025,1,Australia,5,Alexander Albon,Williams,6.0,57.0,+12.773,10.0,3
+2025,1,Australia,6,Lance Stroll,Aston Martin,13.0,57.0,+17.413,8.0,3
+2025,1,Australia,7,Nico Hülkenberg,Kick Sauber,17.0,57.0,+18.423,6.0,3
+2025,1,Australia,8,Charles Leclerc,Ferrari,7.0,57.0,+19.826,4.0,3
+2025,1,Australia,9,Oscar Piastri,McLaren,2.0,57.0,+20.448,2.0,3
+2025,1,Australia,10,Lewis Hamilton,Ferrari,8.0,57.0,+22.473,1.0,3
+2025,1,Australia,11,Pierre Gasly,Alpine,9.0,57.0,+26.502,,3
+2025,1,Australia,12,Yuki Tsunoda,Racing Bulls,5.0,57.0,+29.884,,3
+2025,1,Australia,13,Esteban Ocon,Haas,19.0,57.0,+33.161,,3
+2025,1,Australia,14,Oliver Bearman,Haas,,57.0,+40.351,,3
+2025,1,Australia,15,Liam Lawson,Red Bull,,46.0,Accident,,3
+2025,1,Australia,16,Gabriel Bortoleto,Kick Sauber,15.0,45.0,Accident,,3
+2025,1,Australia,17,Fernando Alonso,Aston Martin,12.0,32.0,Accident,,3
+2025,1,Australia,18,Carlos Sainz Jr.,Williams,10.0,0.0,Accident,,3
+2025,1,Australia,19,Jack Doohan,Alpine,14.0,0.0,Accident,,3
+2025,1,Australia,20,Isack Hadjar,Racing Bulls,11.0,0.0,Accident on formation lap,,3
+2025,2,China,1,Oscar Piastri,McLaren,1.0,56.0,1:30:55.026,25.0,2
+2025,2,China,2,Lando Norris,McLaren,3.0,56.0,+9.748,18.0,2
+2025,2,China,3,George Russell,Mercedes,2.0,56.0,+11.097,15.0,2
+2025,2,China,4,Max Verstappen,Red Bull,4.0,56.0,+16.656,12.0,2
+2025,2,China,5,Esteban Ocon,Haas,11.0,56.0,+49.969,10.0,2
+2025,2,China,6,Kimi Antonelli,Mercedes,8.0,56.0,+53.748,8.0,2
+2025,2,China,7,Alexander Albon,Williams,10.0,56.0,+56.321,6.0,2
+2025,2,China,8,Oliver Bearman,Haas,17.0,56.0,+1:01.303,4.0,2
+2025,2,China,9,Lance Stroll,Aston Martin,14.0,56.0,+1:10.204,2.0,2
+2025,2,China,10,Carlos Sainz Jr.,Williams,15.0,56.0,+1:16.387,1.0,2
+2025,2,China,11,Isack Hadjar,Racing Bulls,7.0,56.0,+1:18.875,,2
+2025,2,China,12,Liam Lawson,Red Bull,,56.0,+1:21.147,,2
+2025,2,China,13,Jack Doohan,Alpine,18.0,56.0,+1:28.401,,2
+2025,2,China,14,Gabriel Bortoleto,Kick Sauber,19.0,55.0,+1 lap,,2
+2025,2,China,15,Nico Hülkenberg,Kick Sauber,12.0,55.0,+1 lap,,2
+2025,2,China,16,Yuki Tsunoda,Racing Bulls,9.0,55.0,+1 lap,,2
+2025,2,China,17,Fernando Alonso,Aston Martin,13.0,4.0,Brakes,,2
+2025,2,China,18,Charles Leclerc,Ferrari,6.0,56.0,Car underweight,,2
+2025,2,China,19,Lewis Hamilton,Ferrari,5.0,56.0,Illegal skid block wear,,2
+2025,2,China,20,Pierre Gasly,Alpine,16.0,56.0,Car underweight,,2
+2025,3,Japan,1,Max Verstappen,Red Bull,1.0,53.0,1:22:06.983,25.0,1
+2025,3,Japan,2,Lando Norris,McLaren,2.0,53.0,+1.423,18.0,1
+2025,3,Japan,3,Oscar Piastri,McLaren,3.0,53.0,+2.129,15.0,1
+2025,3,Japan,4,Charles Leclerc,Ferrari,4.0,53.0,+16.097,12.0,1
+2025,3,Japan,5,George Russell,Mercedes,5.0,53.0,+17.362,10.0,1
+2025,3,Japan,6,Kimi Antonelli,Mercedes,6.0,53.0,+18.671,8.0,1
+2025,3,Japan,7,Lewis Hamilton,Ferrari,8.0,53.0,+29.182,6.0,1
+2025,3,Japan,8,Isack Hadjar,Racing Bulls,7.0,53.0,+37.134,4.0,1
+2025,3,Japan,9,Alexander Albon,Williams,9.0,53.0,+40.367,2.0,1
+2025,3,Japan,10,Oliver Bearman,Haas,10.0,53.0,+54.529,1.0,1
+2025,3,Japan,11,Fernando Alonso,Aston Martin,12.0,53.0,+57.333,,1
+2025,3,Japan,12,Yuki Tsunoda,Red Bull,14.0,53.0,+58.401,,1
+2025,3,Japan,13,Pierre Gasly,Alpine,11.0,53.0,+1:02.122,,1
+2025,3,Japan,14,Carlos Sainz Jr.,Williams,15.0,53.0,+1:14.129,,1
+2025,3,Japan,15,Jack Doohan,Alpine,19.0,53.0,+1:21.314,,1
+2025,3,Japan,16,Nico Hülkenberg,Kick Sauber,16.0,53.0,+1:21.957,,1
+2025,3,Japan,17,Liam Lawson,Racing Bulls,13.0,53.0,+1:22.734,,1
+2025,3,Japan,18,Esteban Ocon,Haas,18.0,53.0,+1:23.438,,1
+2025,3,Japan,19,Gabriel Bortoleto,Kick Sauber,17.0,53.0,+1:23.897,,1
+2025,3,Japan,20,Lance Stroll,Aston Martin,20.0,52.0,+1 lap,,1
+2025,4,Bahrain,1,Oscar Piastri,McLaren,1.0,57.0,1:35:39.435,25.0,2
+2025,4,Bahrain,2,George Russell,Mercedes,3.0,57.0,+15.499,18.0,2
+2025,4,Bahrain,3,Lando Norris,McLaren,6.0,57.0,+16.273,15.0,2
+2025,4,Bahrain,4,Charles Leclerc,Ferrari,2.0,57.0,+19.679,12.0,2
+2025,4,Bahrain,5,Lewis Hamilton,Ferrari,9.0,57.0,+27.993,10.0,2
+2025,4,Bahrain,6,Max Verstappen,Red Bull,7.0,57.0,+34.395,8.0,2
+2025,4,Bahrain,7,Pierre Gasly,Alpine,4.0,57.0,+36.002,6.0,2
+2025,4,Bahrain,8,Esteban Ocon,Haas,14.0,57.0,+44.244,4.0,2
+2025,4,Bahrain,9,Yuki Tsunoda,Red Bull,10.0,57.0,+45.061,2.0,2
+2025,4,Bahrain,10,Oliver Bearman,Haas,20.0,57.0,+47.594,1.0,2
+2025,4,Bahrain,11,Kimi Antonelli,Mercedes,5.0,57.0,+48.016,,2
+2025,4,Bahrain,12,Alexander Albon,Williams,15.0,57.0,+48.839,,2
+2025,4,Bahrain,13,Isack Hadjar,Racing Bulls,12.0,57.0,+56.314,,2
+2025,4,Bahrain,14,Jack Doohan,Alpine,11.0,57.0,+57.806,,2
+2025,4,Bahrain,15,Fernando Alonso,Aston Martin,13.0,57.0,+1:00.340,,2
+2025,4,Bahrain,16,Liam Lawson,Racing Bulls,17.0,57.0,+1:04.435,,2
+2025,4,Bahrain,17,Lance Stroll,Aston Martin,19.0,57.0,+1:05.489,,2
+2025,4,Bahrain,18,Gabriel Bortoleto,Kick Sauber,18.0,57.0,+1:06.872,,2
+2025,4,Bahrain,19,Carlos Sainz Jr.,Williams,8.0,45.0,Collision damage,,2
+2025,4,Bahrain,20,Nico Hülkenberg,Kick Sauber,16.0,,Illegal skid block wear,,2
+2025,5,Saudi Arabia,1,Oscar Piastri,McLaren,2.0,50.0,1:21:06.758,25.0,3
+2025,5,Saudi Arabia,2,Max Verstappen,Red Bull,1.0,50.0,+2.843,18.0,3
+2025,5,Saudi Arabia,3,Charles Leclerc,Ferrari,4.0,50.0,+8.104,15.0,3
+2025,5,Saudi Arabia,4,Lando Norris,McLaren,10.0,50.0,+9.196,12.0,3
+2025,5,Saudi Arabia,5,George Russell,Mercedes,3.0,50.0,+27.236,10.0,3
+2025,5,Saudi Arabia,6,Kimi Antonelli,Mercedes,5.0,50.0,+34.688,8.0,3
+2025,5,Saudi Arabia,7,Lewis Hamilton,Ferrari,7.0,50.0,+39.073,6.0,3
+2025,5,Saudi Arabia,8,Carlos Sainz Jr.,Williams,6.0,50.0,+1:04.630,4.0,3
+2025,5,Saudi Arabia,9,Alexander Albon,Williams,11.0,50.0,+1:06.515,2.0,3
+2025,5,Saudi Arabia,10,Isack Hadjar,Racing Bulls,14.0,50.0,+1:07.091,1.0,3
+2025,5,Saudi Arabia,11,Fernando Alonso,Aston Martin,13.0,50.0,+1:15.917,,3
+2025,5,Saudi Arabia,12,Liam Lawson,Racing Bulls,12.0,50.0,+1:18.451,,3
+2025,5,Saudi Arabia,13,Oliver Bearman,Haas,15.0,50.0,+1:19.194,,3
+2025,5,Saudi Arabia,14,Esteban Ocon,Haas,19.0,50.0,+1:39.723,,3
+2025,5,Saudi Arabia,15,Nico Hülkenberg,Kick Sauber,18.0,49.0,+1 lap,,3
+2025,5,Saudi Arabia,16,Lance Stroll,Aston Martin,16.0,49.0,+1 lap,,3
+2025,5,Saudi Arabia,17,Jack Doohan,Alpine,17.0,49.0,+1 lap,,3
+2025,5,Saudi Arabia,18,Gabriel Bortoleto,Kick Sauber,20.0,49.0,+1 lap,,3
+2025,5,Saudi Arabia,19,Yuki Tsunoda,Red Bull,8.0,1.0,Collision damage,,3
+2025,5,Saudi Arabia,20,Pierre Gasly,Alpine,9.0,0.0,Collision,,3
+2025,6,Miami,1,Oscar Piastri,McLaren,4.0,57.0,1:28:51.587,25.0,3
+2025,6,Miami,2,Lando Norris,McLaren,2.0,57.0,+4.630,18.0,3
+2025,6,Miami,3,George Russell,Mercedes,5.0,57.0,+37.644,15.0,3
+2025,6,Miami,4,Max Verstappen,Red Bull,1.0,57.0,+39.956,12.0,3
+2025,6,Miami,5,Alexander Albon,Williams,7.0,57.0,+48.067,10.0,3
+2025,6,Miami,6,Kimi Antonelli,Mercedes,3.0,57.0,+55.502,8.0,3
+2025,6,Miami,7,Charles Leclerc,Ferrari,8.0,57.0,+57.036,6.0,3
+2025,6,Miami,8,Lewis Hamilton,Ferrari,12.0,57.0,+1:00.186,4.0,3
+2025,6,Miami,9,Carlos Sainz Jr.,Williams,6.0,57.0,+1:00.577,2.0,3
+2025,6,Miami,10,Yuki Tsunoda,Red Bull,10.0,57.0,+1:14.434,1.0,3
+2025,6,Miami,11,Isack Hadjar,Racing Bulls,11.0,57.0,+1:14.602,,3
+2025,6,Miami,12,Esteban Ocon,Haas,9.0,57.0,+1:22.006,,3
+2025,6,Miami,13,Pierre Gasly,Alpine,,57.0,+1:30.445,,3
+2025,6,Miami,14,Nico Hülkenberg,Kick Sauber,16.0,56.0,+1 lap,,3
+2025,6,Miami,15,Fernando Alonso,Aston Martin,17.0,56.0,+1 lap,,3
+2025,6,Miami,16,Lance Stroll,Aston Martin,18.0,56.0,+1 lap,,3
+2025,6,Miami,17,Liam Lawson,Racing Bulls,15.0,36.0,Collision damage,,3
+2025,6,Miami,18,Gabriel Bortoleto,Kick Sauber,13.0,30.0,Engine,,3
+2025,6,Miami,19,Oliver Bearman,Haas,19.0,27.0,Fuel system,,3
+2025,6,Miami,20,Jack Doohan,Alpine,14.0,0.0,Collision,,3
+2025,7,Emilia-Romagna,1,Max Verstappen,Red Bull,2.0,63.0,1:31:33.199,25.0,1
+2025,7,Emilia-Romagna,2,Lando Norris,McLaren,4.0,63.0,+6.109,18.0,1
+2025,7,Emilia-Romagna,3,Oscar Piastri,McLaren,1.0,63.0,+12.956,15.0,1
+2025,7,Emilia-Romagna,4,Lewis Hamilton,Ferrari,12.0,63.0,+14.356,12.0,1
+2025,7,Emilia-Romagna,5,Alexander Albon,Williams,7.0,63.0,+17.945,10.0,1
+2025,7,Emilia-Romagna,6,Charles Leclerc,Ferrari,11.0,63.0,+20.774,8.0,1
+2025,7,Emilia-Romagna,7,George Russell,Mercedes,3.0,63.0,+22.034,6.0,1
+2025,7,Emilia-Romagna,8,Carlos Sainz Jr.,Williams,6.0,63.0,+22.898,4.0,1
+2025,7,Emilia-Romagna,9,Isack Hadjar,Racing Bulls,9.0,63.0,+23.586,2.0,1
+2025,7,Emilia-Romagna,10,Yuki Tsunoda,Red Bull,,63.0,+26.446,1.0,1
+2025,7,Emilia-Romagna,11,Fernando Alonso,Aston Martin,5.0,63.0,+27.250,,1
+2025,7,Emilia-Romagna,12,Nico Hülkenberg,Kick Sauber,17.0,63.0,+30.296,,1
+2025,7,Emilia-Romagna,13,Pierre Gasly,Alpine,10.0,63.0,+31.424,,1
+2025,7,Emilia-Romagna,14,Liam Lawson,Racing Bulls,15.0,63.0,+32.511,,1
+2025,7,Emilia-Romagna,15,Lance Stroll,Aston Martin,8.0,63.0,+32.993,,1
+2025,7,Emilia-Romagna,16,Franco Colapinto,Alpine,16.0,63.0,+33.411,,1
+2025,7,Emilia-Romagna,17,Oliver Bearman,Haas,19.0,63.0,+33.808,,1
+2025,7,Emilia-Romagna,18,Gabriel Bortoleto,Kick Sauber,14.0,63.0,+38.572,,1
+2025,7,Emilia-Romagna,19,Kimi Antonelli,Mercedes,13.0,44.0,Throttle,,1
+2025,7,Emilia-Romagna,20,Esteban Ocon,Haas,18.0,27.0,Engine,,1
+2025,8,Monaco,1,Lando Norris,McLaren,1.0,78.0,1:40:33.843,25.0,1
+2025,8,Monaco,2,Charles Leclerc,Ferrari,2.0,78.0,+3.131,18.0,1
+2025,8,Monaco,3,Oscar Piastri,McLaren,3.0,78.0,+3.658,15.0,1
+2025,8,Monaco,4,Max Verstappen,Red Bull,4.0,78.0,+20.572,12.0,1
+2025,8,Monaco,5,Lewis Hamilton,Ferrari,7.0,78.0,+51.387,10.0,1
+2025,8,Monaco,6,Isack Hadjar,Racing Bulls,5.0,77.0,+1 lap,8.0,1
+2025,8,Monaco,7,Esteban Ocon,Haas,8.0,77.0,+1 lap,6.0,1
+2025,8,Monaco,8,Liam Lawson,Racing Bulls,9.0,77.0,+1 lap,4.0,1
+2025,8,Monaco,9,Alexander Albon,Williams,10.0,76.0,+2 laps,2.0,1
+2025,8,Monaco,10,Carlos Sainz Jr.,Williams,11.0,76.0,+2 laps,1.0,1
+2025,8,Monaco,11,George Russell,Mercedes,14.0,76.0,+2 laps,,1
+2025,8,Monaco,12,Oliver Bearman,Haas,20.0,76.0,+2 laps,,1
+2025,8,Monaco,13,Franco Colapinto,Alpine,18.0,76.0,+2 laps,,1
+2025,8,Monaco,14,Gabriel Bortoleto,Kick Sauber,16.0,76.0,+2 laps,,1
+2025,8,Monaco,15,Lance Stroll,Aston Martin,19.0,76.0,+2 laps,,1
+2025,8,Monaco,16,Nico Hülkenberg,Kick Sauber,13.0,76.0,+2 laps,,1
+2025,8,Monaco,17,Yuki Tsunoda,Red Bull,12.0,76.0,+2 laps,,1
+2025,8,Monaco,18,Kimi Antonelli,Mercedes,15.0,75.0,+3 laps,,1
+2025,8,Monaco,19,Fernando Alonso,Aston Martin,6.0,36.0,Engine,,1
+2025,8,Monaco,20,Pierre Gasly,Alpine,17.0,7.0,Collision damage,,1
+2025,9,Spain,1,Oscar Piastri,McLaren,1.0,66.0,1:32:57.375,25.0,2
+2025,9,Spain,2,Lando Norris,McLaren,2.0,66.0,+2.471,18.0,2
+2025,9,Spain,3,Charles Leclerc,Ferrari,7.0,66.0,+10.455,15.0,2
+2025,9,Spain,4,George Russell,Mercedes,4.0,66.0,+11.359,12.0,2
+2025,9,Spain,5,Nico Hülkenberg,Kick Sauber,15.0,66.0,+13.648,10.0,2
+2025,9,Spain,6,Lewis Hamilton,Ferrari,5.0,66.0,+15.508,8.0,2
+2025,9,Spain,7,Isack Hadjar,Racing Bulls,9.0,66.0,+16.022,6.0,2
+2025,9,Spain,8,Pierre Gasly,Alpine,8.0,66.0,+17.882,4.0,2
+2025,9,Spain,9,Fernando Alonso,Aston Martin,10.0,66.0,+21.564,2.0,2
+2025,9,Spain,10,Max Verstappen,Red Bull,3.0,66.0,+21.826,1.0,2
+2025,9,Spain,11,Liam Lawson,Racing Bulls,13.0,66.0,+25.532,,2
+2025,9,Spain,12,Gabriel Bortoleto,Kick Sauber,12.0,66.0,+25.996,,2
+2025,9,Spain,13,Yuki Tsunoda,Red Bull,,66.0,+28.822,,2
+2025,9,Spain,14,Carlos Sainz Jr.,Williams,17.0,66.0,+29.309,,2
+2025,9,Spain,15,Franco Colapinto,Alpine,18.0,66.0,+31.381,,2
+2025,9,Spain,16,Esteban Ocon,Haas,16.0,66.0,+32.197,,2
+2025,9,Spain,17,Oliver Bearman,Haas,14.0,66.0,+37.065,,2
+2025,9,Spain,18,Kimi Antonelli,Mercedes,6.0,53.0,Oil pressure,,2
+2025,9,Spain,19,Alexander Albon,Williams,11.0,27.0,Collision damage,,2
+2025,9,Spain,20,Lance Stroll,Aston Martin,,,Injury,,2
+2025,10,Canada,1,George Russell,Mercedes,1.0,70.0,1:31:52.688,25.0,3
+2025,10,Canada,2,Max Verstappen,Red Bull,2.0,70.0,+0.228,18.0,3
+2025,10,Canada,3,Kimi Antonelli,Mercedes,4.0,70.0,+1.014,15.0,3
+2025,10,Canada,4,Oscar Piastri,McLaren,3.0,70.0,+2.109,12.0,3
+2025,10,Canada,5,Charles Leclerc,Ferrari,8.0,70.0,+3.442,10.0,3
+2025,10,Canada,6,Lewis Hamilton,Ferrari,5.0,70.0,+10.713,8.0,3
+2025,10,Canada,7,Fernando Alonso,Aston Martin,6.0,70.0,+10.972,6.0,3
+2025,10,Canada,8,Nico Hülkenberg,Kick Sauber,11.0,70.0,+15.364,4.0,3
+2025,10,Canada,9,Esteban Ocon,Haas,14.0,69.0,+1 lap,2.0,3
+2025,10,Canada,10,Carlos Sainz Jr.,Williams,16.0,69.0,+1 lap,1.0,3
+2025,10,Canada,11,Oliver Bearman,Haas,13.0,69.0,+1 lap,,3
+2025,10,Canada,12,Yuki Tsunoda,Red Bull,18.0,69.0,+1 lap,,3
+2025,10,Canada,13,Franco Colapinto,Alpine,10.0,69.0,+1 lap,,3
+2025,10,Canada,14,Gabriel Bortoleto,Kick Sauber,15.0,69.0,+1 lap,,3
+2025,10,Canada,15,Pierre Gasly,Alpine,,69.0,+1 lap,,3
+2025,10,Canada,16,Isack Hadjar,Racing Bulls,12.0,69.0,+1 lap,,3
+2025,10,Canada,17,Lance Stroll,Aston Martin,17.0,69.0,+1 lap,,3
+2025,10,Canada,18,Lando Norris,McLaren,7.0,66.0,Collision,,3
+2025,10,Canada,19,Liam Lawson,Racing Bulls,,53.0,Overheating,,3
+2025,10,Canada,20,Alexander Albon,Williams,9.0,46.0,Engine,,3
+2025,11,Austria,1,Lando Norris,McLaren,1.0,70.0,1:23:47.693,25.0,3
+2025,11,Austria,2,Oscar Piastri,McLaren,3.0,70.0,+2.695,18.0,3
+2025,11,Austria,3,Charles Leclerc,Ferrari,2.0,70.0,+19.820,15.0,3
+2025,11,Austria,4,Lewis Hamilton,Ferrari,4.0,70.0,+29.020,12.0,3
+2025,11,Austria,5,George Russell,Mercedes,5.0,70.0,+1:02.396,10.0,3
+2025,11,Austria,6,Liam Lawson,Racing Bulls,6.0,70.0,+1:07.754,8.0,3
+2025,11,Austria,7,Fernando Alonso,Aston Martin,11.0,69.0,+1 lap,6.0,3
+2025,11,Austria,8,Gabriel Bortoleto,Kick Sauber,8.0,69.0,+1 lap,4.0,3
+2025,11,Austria,9,Nico Hülkenberg,Kick Sauber,20.0,69.0,+1 lap,2.0,3
+2025,11,Austria,10,Esteban Ocon,Haas,17.0,69.0,+1 lap,1.0,3
+2025,11,Austria,11,Oliver Bearman,Haas,15.0,69.0,+1 lap,,3
+2025,11,Austria,12,Isack Hadjar,Racing Bulls,13.0,69.0,+1 lap,,3
+2025,11,Austria,13,Pierre Gasly,Alpine,10.0,69.0,+1 lap,,3
+2025,11,Austria,14,Lance Stroll,Aston Martin,16.0,69.0,+1 lap,,3
+2025,11,Austria,15,Franco Colapinto,Alpine,14.0,69.0,+1 lap,,3
+2025,11,Austria,16,Yuki Tsunoda,Red Bull,18.0,68.0,+2 laps,,3
+2025,11,Austria,17,Alexander Albon,Williams,12.0,15.0,Engine,,3
+2025,11,Austria,18,Max Verstappen,Red Bull,7.0,0.0,Collision,,3
+2025,11,Austria,19,Kimi Antonelli,Mercedes,9.0,0.0,Collision,,3
+2025,11,Austria,20,Carlos Sainz Jr.,Williams,,,Brakes,,3
+2025,12,Great Britain,1,Lando Norris,McLaren,3.0,52.0,1:37:15.735,25.0,2
+2025,12,Great Britain,2,Oscar Piastri,McLaren,2.0,52.0,+6.812,18.0,2
+2025,12,Great Britain,3,Nico Hülkenberg,Kick Sauber,19.0,52.0,+34.742,15.0,2
+2025,12,Great Britain,4,Lewis Hamilton,Ferrari,5.0,52.0,+39.812,12.0,2
+2025,12,Great Britain,5,Max Verstappen,Red Bull,1.0,52.0,+56.781,10.0,2
+2025,12,Great Britain,6,Pierre Gasly,Alpine,8.0,52.0,+59.857,8.0,2
+2025,12,Great Britain,7,Lance Stroll,Aston Martin,17.0,52.0,+1:00.603,6.0,2
+2025,12,Great Britain,8,Alexander Albon,Williams,13.0,52.0,+1:04.135,4.0,2
+2025,12,Great Britain,9,Fernando Alonso,Aston Martin,7.0,52.0,+1:05.858,2.0,2
+2025,12,Great Britain,10,George Russell,Mercedes,4.0,52.0,+1:10.674,1.0,2
+2025,12,Great Britain,11,Oliver Bearman,Haas,18.0,52.0,+1:12.095,,2
+2025,12,Great Britain,12,Carlos Sainz Jr.,Williams,9.0,52.0,+1:16.592,,2
+2025,12,Great Britain,13,Esteban Ocon,Haas,14.0,52.0,+1:17.301,,2
+2025,12,Great Britain,14,Charles Leclerc,Ferrari,6.0,52.0,+1:24.477,,2
+2025,12,Great Britain,15,Yuki Tsunoda,Red Bull,11.0,51.0,+1 lap,,2
+2025,12,Great Britain,16,Kimi Antonelli,Mercedes,10.0,23.0,Collision damage,,2
+2025,12,Great Britain,17,Isack Hadjar,Racing Bulls,12.0,17.0,Accident,,2
+2025,12,Great Britain,18,Gabriel Bortoleto,Kick Sauber,16.0,3.0,Accident,,2
+2025,12,Great Britain,19,Liam Lawson,Racing Bulls,15.0,0.0,Collision,,2
+2025,12,Great Britain,20,Franco Colapinto,Alpine,,,Transmission,,2
+2025,13,Belgium,1,Oscar Piastri,McLaren,2.0,44.0,1:25:22.601,25.0,2
+2025,13,Belgium,2,Lando Norris,McLaren,1.0,44.0,+3.415,18.0,2
+2025,13,Belgium,3,Charles Leclerc,Ferrari,3.0,44.0,+20.185,15.0,2
+2025,13,Belgium,4,Max Verstappen,Red Bull,4.0,44.0,+21.731,12.0,2
+2025,13,Belgium,5,George Russell,Mercedes,6.0,44.0,+34.863,10.0,2
+2025,13,Belgium,6,Alexander Albon,Williams,5.0,44.0,+39.926,8.0,2
+2025,13,Belgium,7,Lewis Hamilton,Ferrari,,44.0,+40.679,6.0,2
+2025,13,Belgium,8,Liam Lawson,Racing Bulls,9.0,44.0,+52.033,4.0,2
+2025,13,Belgium,9,Gabriel Bortoleto,Kick Sauber,10.0,44.0,+56.434,2.0,2
+2025,13,Belgium,10,Pierre Gasly,Alpine,13.0,44.0,+1:12.714,1.0,2
+2025,13,Belgium,11,Oliver Bearman,Haas,12.0,44.0,+1:13.145,,2
+2025,13,Belgium,12,Nico Hülkenberg,Kick Sauber,14.0,44.0,+1:13.628,,2
+2025,13,Belgium,13,Yuki Tsunoda,Red Bull,7.0,44.0,+1:15.395,,2
+2025,13,Belgium,14,Lance Stroll,Aston Martin,16.0,44.0,+1:19.831,,2
+2025,13,Belgium,15,Esteban Ocon,Haas,11.0,44.0,+1:26.063,,2
+2025,13,Belgium,16,Kimi Antonelli,Mercedes,,44.0,+1:26.721,,2
+2025,13,Belgium,17,Fernando Alonso,Aston Martin,,44.0,+1:27.924,,2
+2025,13,Belgium,18,Carlos Sainz Jr.,Williams,,44.0,+1:32.024,,2
+2025,13,Belgium,19,Franco Colapinto,Alpine,15.0,44.0,+1:35.250,,2
+2025,13,Belgium,20,Isack Hadjar,Racing Bulls,8.0,43.0,+1 lap,,2
+2025,14,Hungary,1,Lando Norris,McLaren,3.0,70.0,1:35:21.231,25.0,2
+2025,14,Hungary,2,Oscar Piastri,McLaren,2.0,70.0,+0.698,18.0,2
+2025,14,Hungary,3,George Russell,Mercedes,4.0,70.0,+21.916,15.0,2
+2025,14,Hungary,4,Charles Leclerc,Ferrari,1.0,70.0,+42.560,12.0,2
+2025,14,Hungary,5,Fernando Alonso,Aston Martin,5.0,70.0,+59.040,10.0,2
+2025,14,Hungary,6,Gabriel Bortoleto,Kick Sauber,7.0,70.0,+1:06.169,8.0,2
+2025,14,Hungary,7,Lance Stroll,Aston Martin,6.0,70.0,+1:08.174,6.0,2
+2025,14,Hungary,8,Liam Lawson,Racing Bulls,9.0,70.0,+1:09.451,4.0,2
+2025,14,Hungary,9,Max Verstappen,Red Bull,8.0,70.0,+1:12.645,2.0,2
+2025,14,Hungary,10,Kimi Antonelli,Mercedes,15.0,69.0,+1 lap,1.0,2
+2025,14,Hungary,11,Isack Hadjar,Racing Bulls,10.0,69.0,+1 lap,,2
+2025,14,Hungary,12,Lewis Hamilton,Ferrari,12.0,69.0,+1 lap,,2
+2025,14,Hungary,13,Nico Hülkenberg,Kick Sauber,18.0,69.0,+1 lap,,2
+2025,14,Hungary,14,Carlos Sainz Jr.,Williams,13.0,69.0,+1 lap,,2
+2025,14,Hungary,15,Alexander Albon,Williams,19.0,69.0,+1 lap,,2
+2025,14,Hungary,16,Esteban Ocon,Haas,17.0,69.0,+1 lap,,2
+2025,14,Hungary,17,Yuki Tsunoda,Red Bull,,69.0,+1 lap,,2
+2025,14,Hungary,18,Franco Colapinto,Alpine,14.0,69.0,+1 lap,,2
+2025,14,Hungary,19,Pierre Gasly,Alpine,16.0,69.0,+1 lap,,2
+2025,14,Hungary,20,Oliver Bearman,Haas,11.0,48.0,Undertray,,2
+2025,15,Netherlands,1,Oscar Piastri,McLaren,1.0,72.0,1:38:29.849,25.0,2
+2025,15,Netherlands,2,Max Verstappen,Red Bull,3.0,72.0,+1.271,18.0,2
+2025,15,Netherlands,3,Isack Hadjar,Racing Bulls,4.0,72.0,+3.233,15.0,2
+2025,15,Netherlands,4,George Russell,Mercedes,5.0,72.0,+5.654,12.0,2
+2025,15,Netherlands,5,Alexander Albon,Williams,15.0,72.0,+6.327,10.0,2
+2025,15,Netherlands,6,Oliver Bearman,Haas,,72.0,+9.044,8.0,2
+2025,15,Netherlands,7,Lance Stroll,Aston Martin,19.0,72.0,+9.497,6.0,2
+2025,15,Netherlands,8,Fernando Alonso,Aston Martin,10.0,72.0,+11.709,4.0,2
+2025,15,Netherlands,9,Yuki Tsunoda,Red Bull,12.0,72.0,+13.597,2.0,2
+2025,15,Netherlands,10,Esteban Ocon,Haas,18.0,72.0,+14.063,1.0,2
+2025,15,Netherlands,11,Franco Colapinto,Alpine,16.0,72.0,+14.511,,2
+2025,15,Netherlands,12,Liam Lawson,Racing Bulls,8.0,72.0,+17.063,,2
+2025,15,Netherlands,13,Carlos Sainz Jr.,Williams,9.0,72.0,+17.376,,2
+2025,15,Netherlands,14,Nico Hülkenberg,Kick Sauber,17.0,72.0,+19.725,,2
+2025,15,Netherlands,15,Gabriel Bortoleto,Kick Sauber,13.0,72.0,+21.565,,2
+2025,15,Netherlands,16,Kimi Antonelli,Mercedes,11.0,72.0,+22.029,,2
+2025,15,Netherlands,17,Pierre Gasly,Alpine,14.0,72.0,+23.629,,2
+2025,15,Netherlands,18,Lando Norris,McLaren,2.0,64.0,Chassis,,2
+2025,15,Netherlands,19,Charles Leclerc,Ferrari,6.0,52.0,Collision,,2
+2025,15,Netherlands,20,Lewis Hamilton,Ferrari,7.0,22.0,Accident,,2
+2025,16,Italy,1,Max Verstappen,Red Bull,1.0,53.0,1:13:24.325,25.0,2
+2025,16,Italy,2,Lando Norris,McLaren,2.0,53.0,+19.207,18.0,2
+2025,16,Italy,3,Oscar Piastri,McLaren,3.0,53.0,+21.351,15.0,2
+2025,16,Italy,4,Charles Leclerc,Ferrari,4.0,53.0,+25.624,12.0,2
+2025,16,Italy,5,George Russell,Mercedes,5.0,53.0,+32.881,10.0,2
+2025,16,Italy,6,Lewis Hamilton,Ferrari,10.0,53.0,+37.449,8.0,2
+2025,16,Italy,7,Alexander Albon,Williams,14.0,53.0,+50.537,6.0,2
+2025,16,Italy,8,Gabriel Bortoleto,Kick Sauber,7.0,53.0,+58.484,4.0,2
+2025,16,Italy,9,Kimi Antonelli,Mercedes,6.0,53.0,+59.762,2.0,2
+2025,16,Italy,10,Isack Hadjar,Racing Bulls,,53.0,+1:03.891,1.0,2
+2025,16,Italy,11,Carlos Sainz Jr.,Williams,13.0,53.0,+1:04.469,,2
+2025,16,Italy,12,Oliver Bearman,Haas,11.0,53.0,+1:19.288,,2
+2025,16,Italy,13,Yuki Tsunoda,Red Bull,9.0,53.0,+1:20.701,,2
+2025,16,Italy,14,Liam Lawson,Racing Bulls,18.0,53.0,+1:22.351,,2
+2025,16,Italy,15,Esteban Ocon,Haas,15.0,52.0,+1 lap,,2
+2025,16,Italy,16,Pierre Gasly,Alpine,,52.0,+1 lap,,2
+2025,16,Italy,17,Franco Colapinto,Alpine,17.0,52.0,+1 lap,,2
+2025,16,Italy,18,Lance Stroll,Aston Martin,16.0,52.0,+1 lap,,2
+2025,16,Italy,19,Fernando Alonso,Aston Martin,8.0,24.0,Suspension,,2
+2025,16,Italy,20,Nico Hülkenberg,Kick Sauber,,,Hydraulics,,2
+2025,17,Azerbaijan,1,Max Verstappen,Red Bull,1.0,51.0,1:33:26.408,25.0,2
+2025,17,Azerbaijan,2,George Russell,Mercedes,5.0,51.0,+14.609,18.0,2
+2025,17,Azerbaijan,3,Carlos Sainz Jr.,Williams,2.0,51.0,+19.199,15.0,2
+2025,17,Azerbaijan,4,Kimi Antonelli,Mercedes,4.0,51.0,+21.760,12.0,2
+2025,17,Azerbaijan,5,Liam Lawson,Racing Bulls,3.0,51.0,+33.290,10.0,2
+2025,17,Azerbaijan,6,Yuki Tsunoda,Red Bull,6.0,51.0,+33.808,8.0,2
+2025,17,Azerbaijan,7,Lando Norris,McLaren,7.0,51.0,+34.227,6.0,2
+2025,17,Azerbaijan,8,Lewis Hamilton,Ferrari,12.0,51.0,+36.310,4.0,2
+2025,17,Azerbaijan,9,Charles Leclerc,Ferrari,10.0,51.0,+36.774,2.0,2
+2025,17,Azerbaijan,10,Isack Hadjar,Racing Bulls,8.0,51.0,+38.982,1.0,2
+2025,17,Azerbaijan,11,Gabriel Bortoleto,Kick Sauber,13.0,51.0,+1:07.606,,2
+2025,17,Azerbaijan,12,Oliver Bearman,Haas,15.0,51.0,+1:08.262,,2
+2025,17,Azerbaijan,13,Alexander Albon,Williams,19.0,51.0,+1:12.870,,2
+2025,17,Azerbaijan,14,Esteban Ocon,Haas,20.0,51.0,+1:17.580,,2
+2025,17,Azerbaijan,15,Fernando Alonso,Aston Martin,11.0,51.0,+1:18.707,,2
+2025,17,Azerbaijan,16,Nico Hülkenberg,Kick Sauber,17.0,51.0,+1:20.237,,2
+2025,17,Azerbaijan,17,Lance Stroll,Aston Martin,14.0,51.0,+1:36.392,,2
+2025,17,Azerbaijan,18,Pierre Gasly,Alpine,18.0,50.0,+1 lap,,2
+2025,17,Azerbaijan,19,Franco Colapinto,Alpine,16.0,50.0,+1 lap,,2
+2025,17,Azerbaijan,20,Oscar Piastri,McLaren,9.0,0.0,Accident,,2
+2025,18,Singapore,1,George Russell,Mercedes,1.0,62.0,1:40:22.367,25.0,4
+2025,18,Singapore,2,Max Verstappen,Red Bull,2.0,62.0,+5.430,18.0,4
+2025,18,Singapore,3,Lando Norris,McLaren,5.0,62.0,+6.066,15.0,4
+2025,18,Singapore,4,Oscar Piastri,McLaren,3.0,62.0,+8.146,12.0,4
+2025,18,Singapore,5,Kimi Antonelli,Mercedes,4.0,62.0,+33.681,10.0,4
+2025,18,Singapore,6,Charles Leclerc,Ferrari,7.0,62.0,+45.996,8.0,4
+2025,18,Singapore,7,Fernando Alonso,Aston Martin,10.0,62.0,+1:20.667,6.0,4
+2025,18,Singapore,8,Lewis Hamilton,Ferrari,6.0,62.0,+1:25.251,4.0,4
+2025,18,Singapore,9,Oliver Bearman,Haas,9.0,62.0,+1:33.527,2.0,4
+2025,18,Singapore,10,Carlos Sainz Jr.,Williams,18.0,61.0,+1 lap,1.0,4
+2025,18,Singapore,11,Isack Hadjar,Racing Bulls,8.0,61.0,+1 lap,,4
+2025,18,Singapore,12,Yuki Tsunoda,Red Bull,13.0,61.0,+1 lap,,4
+2025,18,Singapore,13,Lance Stroll,Aston Martin,15.0,61.0,+1 lap,,4
+2025,18,Singapore,14,Alexander Albon,Williams,,61.0,+1 lap,,4
+2025,18,Singapore,15,Liam Lawson,Racing Bulls,12.0,61.0,+1 lap,,4
+2025,18,Singapore,16,Franco Colapinto,Alpine,16.0,61.0,+1 lap,,4
+2025,18,Singapore,17,Gabriel Bortoleto,Kick Sauber,14.0,61.0,+1 lap,,4
+2025,18,Singapore,18,Esteban Ocon,Haas,17.0,61.0,+1 lap,,4
+2025,18,Singapore,19,Pierre Gasly,Alpine,,61.0,+1 lap,,4
+2025,18,Singapore,20,Nico Hülkenberg,Kick Sauber,11.0,61.0,+1 lap,,4
+2025,19,USA,1,Max Verstappen,Red Bull,1.0,56.0,1:34:00.161,25.0,2
+2025,19,USA,2,Lando Norris,McLaren,2.0,56.0,+7.959,18.0,2
+2025,19,USA,3,Charles Leclerc,Ferrari,3.0,56.0,+15.373,15.0,2
+2025,19,USA,4,Lewis Hamilton,Ferrari,5.0,56.0,+28.536,12.0,2
+2025,19,USA,5,Oscar Piastri,McLaren,6.0,56.0,+29.678,10.0,2
+2025,19,USA,6,George Russell,Mercedes,4.0,56.0,+33.456,8.0,2
+2025,19,USA,7,Yuki Tsunoda,Red Bull,13.0,56.0,+52.714,6.0,2
+2025,19,USA,8,Nico Hülkenberg,Kick Sauber,11.0,56.0,+57.249,4.0,2
+2025,19,USA,9,Oliver Bearman,Haas,8.0,56.0,+1:04.722,2.0,2
+2025,19,USA,10,Fernando Alonso,Aston Martin,10.0,56.0,+1:10.001,1.0,2
+2025,19,USA,11,Liam Lawson,Racing Bulls,12.0,56.0,+1:13.209,,2
+2025,19,USA,12,Lance Stroll,Aston Martin,19.0,56.0,+1:14.778,,2
+2025,19,USA,13,Kimi Antonelli,Mercedes,7.0,56.0,+1:15.746,,2
+2025,19,USA,14,Alexander Albon,Williams,18.0,56.0,+1:20.000,,2
+2025,19,USA,15,Esteban Ocon,Haas,17.0,56.0,+1:23.043,,2
+2025,19,USA,16,Isack Hadjar,Racing Bulls,20.0,56.0,+1:32.807,,2
+2025,19,USA,17,Franco Colapinto,Alpine,15.0,55.0,+1 lap,,2
+2025,19,USA,18,Gabriel Bortoleto,Kick Sauber,16.0,55.0,+1 lap,,2
+2025,19,USA,19,Pierre Gasly,Alpine,14.0,55.0,+1 lap,,2
+2025,19,USA,20,Carlos Sainz Jr.,Williams,9.0,5.0,Collision damage,,2
+2025,20,Mexico,1,Lando Norris,McLaren,1.0,71.0,1:37:58.574,25.0,2
+2025,20,Mexico,2,Charles Leclerc,Ferrari,2.0,71.0,+30.324,18.0,2
+2025,20,Mexico,3,Max Verstappen,Red Bull,5.0,71.0,+31.049,15.0,2
+2025,20,Mexico,4,Oliver Bearman,Haas,9.0,71.0,+40.955,12.0,2
+2025,20,Mexico,5,Oscar Piastri,McLaren,7.0,71.0,+42.065,10.0,2
+2025,20,Mexico,6,Kimi Antonelli,Mercedes,6.0,71.0,+47.837,8.0,2
+2025,20,Mexico,7,George Russell,Mercedes,4.0,71.0,+50.287,6.0,2
+2025,20,Mexico,8,Lewis Hamilton,Ferrari,3.0,71.0,+56.446,4.0,2
+2025,20,Mexico,9,Esteban Ocon,Haas,11.0,71.0,+1:15.464,2.0,2
+2025,20,Mexico,10,Gabriel Bortoleto,Kick Sauber,16.0,71.0,+1:16.863,1.0,2
+2025,20,Mexico,11,Yuki Tsunoda,Red Bull,10.0,71.0,+1:19.048,,2
+2025,20,Mexico,12,Alexander Albon,Williams,17.0,70.0,+1 lap,,2
+2025,20,Mexico,13,Isack Hadjar,Racing Bulls,8.0,70.0,+1 lap,,2
+2025,20,Mexico,14,Lance Stroll,Aston Martin,19.0,70.0,+1 lap,,2
+2025,20,Mexico,15,Pierre Gasly,Alpine,18.0,70.0,+1 lap,,2
+2025,20,Mexico,16,Franco Colapinto,Alpine,20.0,70.0,+1 lap,,2
+2025,20,Mexico,17,Carlos Sainz Jr.,Williams,12.0,67.0,Accident,,2
+2025,20,Mexico,18,Fernando Alonso,Aston Martin,14.0,34.0,Brakes,,2
+2025,20,Mexico,19,Nico Hülkenberg,Kick Sauber,13.0,25.0,Handling,,2
+2025,20,Mexico,20,Liam Lawson,Racing Bulls,15.0,5.0,Collision damage,,2
+2025,21,Sao Paulo,1,Lando Norris,McLaren,1.0,71.0,1:32:01.596,25.0,2
+2025,21,Sao Paulo,2,Kimi Antonelli,Mercedes,2.0,71.0,+10.388,18.0,2
+2025,21,Sao Paulo,3,Max Verstappen,Red Bull,,71.0,+10.750,15.0,2
+2025,21,Sao Paulo,4,George Russell,Mercedes,6.0,71.0,+15.267,12.0,2
+2025,21,Sao Paulo,5,Oscar Piastri,McLaren,4.0,71.0,+15.749,10.0,2
+2025,21,Sao Paulo,6,Oliver Bearman,Haas,8.0,71.0,+29.630,8.0,2
+2025,21,Sao Paulo,7,Liam Lawson,Racing Bulls,7.0,71.0,+52.642,6.0,2
+2025,21,Sao Paulo,8,Isack Hadjar,Racing Bulls,5.0,71.0,+52.873,4.0,2
+2025,21,Sao Paulo,9,Nico Hülkenberg,Kick Sauber,10.0,71.0,+53.324,2.0,2
+2025,21,Sao Paulo,10,Pierre Gasly,Alpine,9.0,71.0,+53.914,1.0,2
+2025,21,Sao Paulo,11,Alexander Albon,Williams,12.0,71.0,+54.184,,2
+2025,21,Sao Paulo,12,Esteban Ocon,Haas,,71.0,+54.696,,2
+2025,21,Sao Paulo,13,Carlos Sainz Jr.,Williams,15.0,71.0,+55.420,,2
+2025,21,Sao Paulo,14,Fernando Alonso,Aston Martin,11.0,71.0,+55.766,,2
+2025,21,Sao Paulo,15,Franco Colapinto,Alpine,16.0,71.0,+57.777,,2
+2025,21,Sao Paulo,16,Lance Stroll,Aston Martin,14.0,71.0,+58.247,,2
+2025,21,Sao Paulo,17,Yuki Tsunoda,Red Bull,17.0,71.0,+1:09.176,,2
+2025,21,Sao Paulo,18,Lewis Hamilton,Ferrari,13.0,37.0,Collision damage,,2
+2025,21,Sao Paulo,19,Charles Leclerc,Ferrari,3.0,5.0,Collision,,2
+2025,21,Sao Paulo,20,Gabriel Bortoleto,Kick Sauber,18.0,0.0,Accident,,2
+2025,22,Las Vegas,1,Max Verstappen,Red Bull,2.0,50.0,1:21:08.429,25.0,2
+2025,22,Las Vegas,2,George Russell,Mercedes,4.0,50.0,+23.546,18.0,2
+2025,22,Las Vegas,3,Kimi Antonelli,Mercedes,17.0,50.0,+30.488,15.0,2
+2025,22,Las Vegas,4,Charles Leclerc,Ferrari,9.0,50.0,+30.678,12.0,2
+2025,22,Las Vegas,5,Carlos Sainz Jr.,Williams,3.0,50.0,+34.924,10.0,2
+2025,22,Las Vegas,6,Isack Hadjar,Racing Bulls,8.0,50.0,+45.257,8.0,2
+2025,22,Las Vegas,7,Nico Hülkenberg,Kick Sauber,11.0,50.0,+51.134,6.0,2
+2025,22,Las Vegas,8,Lewis Hamilton,Ferrari,19.0,50.0,+59.369,4.0,2
+2025,22,Las Vegas,9,Esteban Ocon,Haas,13.0,50.0,+1:00.635,2.0,2
+2025,22,Las Vegas,10,Oliver Bearman,Haas,14.0,50.0,+1:10.549,1.0,2
+2025,22,Las Vegas,11,Fernando Alonso,Aston Martin,7.0,50.0,+1:25.308,,2
+2025,22,Las Vegas,12,Yuki Tsunoda,Red Bull,,50.0,+1:26.974,,2
+2025,22,Las Vegas,13,Pierre Gasly,Alpine,10.0,50.0,+1:31.702,,2
+2025,22,Las Vegas,14,Liam Lawson,Racing Bulls,6.0,49.0,+1 lap,,2
+2025,22,Las Vegas,15,Franco Colapinto,Alpine,15.0,49.0,+1 lap,,2
+2025,22,Las Vegas,16,Alexander Albon,Williams,16.0,35.0,Collision damage,,2
+2025,22,Las Vegas,17,Gabriel Bortoleto,Kick Sauber,18.0,2.0,Collision,,2
+2025,22,Las Vegas,18,Lance Stroll,Aston Martin,12.0,0.0,Collision,,2
+2025,22,Las Vegas,19,Lando Norris,McLaren,1.0,,Illegal skid block wear,,2
+2025,22,Las Vegas,20,Oscar Piastri,McLaren,5.0,,Illegal skid block wear,,2
+2025,23,Qatar,1,Max Verstappen,Red Bull,3.0,57.0,1:24:38.241,25.0,2
+2025,23,Qatar,2,Oscar Piastri,McLaren,1.0,57.0,+7.995,18.0,2
+2025,23,Qatar,3,Carlos Sainz Jr.,Williams,7.0,57.0,+22.665,15.0,2
+2025,23,Qatar,4,Lando Norris,McLaren,2.0,57.0,+23.315,12.0,2
+2025,23,Qatar,5,Kimi Antonelli,Mercedes,5.0,57.0,+28.317,10.0,2
+2025,23,Qatar,6,George Russell,Mercedes,4.0,57.0,+48.599,8.0,2
+2025,23,Qatar,7,Fernando Alonso,Aston Martin,8.0,57.0,+54.045,6.0,2
+2025,23,Qatar,8,Charles Leclerc,Ferrari,10.0,57.0,+56.785,4.0,2
+2025,23,Qatar,9,Liam Lawson,Racing Bulls,12.0,57.0,+1:00.073,2.0,2
+2025,23,Qatar,10,Yuki Tsunoda,Red Bull,15.0,57.0,+1:01.770,1.0,2
+2025,23,Qatar,11,Alexander Albon,Williams,14.0,57.0,+1:06.931,,2
+2025,23,Qatar,12,Lewis Hamilton,Ferrari,17.0,57.0,+1:17.730,,2
+2025,23,Qatar,13,Gabriel Bortoleto,Kick Sauber,19.0,57.0,+1:24.812,,2
+2025,23,Qatar,14,Franco Colapinto,Alpine,,56.0,+1 lap,,2
+2025,23,Qatar,15,Esteban Ocon,Haas,16.0,56.0,+1 lap,,2
+2025,23,Qatar,16,Pierre Gasly,Alpine,9.0,56.0,+1 lap,,2
+2025,23,Qatar,17,Lance Stroll,Aston Martin,18.0,55.0,Collision damage,,2
+2025,23,Qatar,18,Isack Hadjar,Racing Bulls,6.0,55.0,Puncture,,2
+2025,23,Qatar,19,Oliver Bearman,Haas,13.0,41.0,Pit stop issue,,2
+2025,23,Qatar,20,Nico Hülkenberg,Kick Sauber,11.0,6.0,Collision,,2
+2025,24,Abu Dhabi,1,Max Verstappen,Red Bull,1.0,58.0,1:26:07.469,25.0,2
+2025,24,Abu Dhabi,2,Oscar Piastri,McLaren,3.0,58.0,+12.594,18.0,2
+2025,24,Abu Dhabi,3,Lando Norris,McLaren,2.0,58.0,+16.572,15.0,2
+2025,24,Abu Dhabi,4,Charles Leclerc,Ferrari,5.0,58.0,+23.279,12.0,2
+2025,24,Abu Dhabi,5,George Russell,Mercedes,4.0,58.0,+48.563,10.0,2
+2025,24,Abu Dhabi,6,Fernando Alonso,Aston Martin,6.0,58.0,+1:07.562,8.0,2
+2025,24,Abu Dhabi,7,Esteban Ocon,Haas,8.0,58.0,+1:09.876,6.0,2
+2025,24,Abu Dhabi,8,Lewis Hamilton,Ferrari,16.0,58.0,+1:12.670,4.0,2
+2025,24,Abu Dhabi,9,Nico Hülkenberg,Kick Sauber,18.0,58.0,+1:19.014,2.0,2
+2025,24,Abu Dhabi,10,Lance Stroll,Aston Martin,15.0,58.0,+1:19.523,1.0,2
+2025,24,Abu Dhabi,11,Gabriel Bortoleto,Kick Sauber,7.0,58.0,+1:21.043,,2
+2025,24,Abu Dhabi,12,Oliver Bearman,Haas,11.0,58.0,+1:21.166,,2
+2025,24,Abu Dhabi,13,Carlos Sainz Jr.,Williams,12.0,58.0,+1:22.158,,2
+2025,24,Abu Dhabi,14,Yuki Tsunoda,Red Bull,10.0,58.0,+1:23.794,,2
+2025,24,Abu Dhabi,15,Kimi Antonelli,Mercedes,14.0,58.0,+1:24.399,,2
+2025,24,Abu Dhabi,16,Alexander Albon,Williams,17.0,58.0,+1:30.327,,2
+2025,24,Abu Dhabi,17,Isack Hadjar,Racing Bulls,9.0,57.0,+1 lap,,2
+2025,24,Abu Dhabi,18,Liam Lawson,Racing Bulls,13.0,57.0,+1 lap,,2
+2025,24,Abu Dhabi,19,Pierre Gasly,Alpine,19.0,57.0,+1 lap,,2
+2025,24,Abu Dhabi,20,Franco Colapinto,Alpine,20.0,57.0,+1 lap,,2
